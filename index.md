@@ -4,7 +4,7 @@ title: SemEval-2024
 
 Welcome to the [SemEval](https://semeval.github.io/)-2024 homepage!
 
-[SemEval-2024 call for task proposals (archival)](cft)
+[SemEval-2024 call for task proposals](cft)
 
 
 
