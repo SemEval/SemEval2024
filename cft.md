@@ -1,6 +1,8 @@
 ---
 title: SemEval-2024: Call for Task Proposals
 ---
+# [SemEval-2024](https://semeval.github.io/SemEval2024/)
+
 
 # Call for Task Proposals
 
