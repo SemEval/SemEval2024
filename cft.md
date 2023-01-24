@@ -170,7 +170,7 @@ Each proposal should contain the following:
 Proposals will be reviewed by an independent group of area experts who may not have familiarity with recent SemEval tasks,
 and therefore all proposals should be written in a self-explanatory manner and contain sufficient examples.
 
-The submission webpage is: [TBA]
+The submission webpage is: [SemEval2023 OpenReview](https://openreview.net/group?id=aclweb.org/ACL/2023/Workshop/SemEval)
  
 ## Chairs
 
