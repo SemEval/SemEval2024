@@ -174,6 +174,8 @@ and therefore all proposals should be written in a self-explanatory manner and c
 
 The submission webpage is: [SemEval2024 Task Proposal Submission](https://openreview.net/group?id=aclweb.org/ACL/2023/Workshop/SemEval)
  
+Please consider making your task proposals in line with the [ACM Code of Ethics adopted by ACL](https://www.aclweb.org/portal/content/acl-code-ethics).
+
 ## Chairs
 
 - [Ritesh Kumar](https://www.ctrans.in/research/clresearch), Dr. Bhimrao Ambedkar University
