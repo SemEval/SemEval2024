@@ -108,7 +108,7 @@ and possibly shepherd papers that need additional help in improving the writing.
 
 ## Important dates
 
-- Task proposals due 3 April 2023 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
+- Task proposals due 17 April 2023 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
 - Task selection notification 22 May 2023
 
 
