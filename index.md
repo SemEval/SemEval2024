@@ -8,7 +8,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2024 homepage!
 
 ### Important dates
 
-- Task proposals due 3 April 2023 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
+- Task proposals due 17 April 2023 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
 - Task selection notification 22 May 2023
 
 The submission webpage is: [SemEval2024 Task Proposal Submission](https://openreview.net/group?id=aclweb.org/ACL/2023/Workshop/SemEval)
