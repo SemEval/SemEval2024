@@ -8,7 +8,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2024 homepage!
 
 ### Important dates
 
-- Task proposals due 17 April 2023 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
+- Task proposals due 24 April 2023 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
 - Task selection notification 22 May 2023
 
 The submission webpage is: [SemEval2024 Task Proposal Submission](https://openreview.net/group?id=aclweb.org/ACL/2023/Workshop/SemEval)
@@ -56,11 +56,11 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 ### Organizers
 
 
-- [Ritesh Kumar](https://www.ctrans.in/research/clresearch), Dr. Bhimrao Ambedkar University
 - [Atul Kr. Ojha](https://www.universityofgalway.ie/our-research/people/engineering-and-informatics/atulkumarojha/), SFI Insight Centre for Data Analytics, DSI, University of Galway
 - [A. Seza Doğruöz](https://research.flw.ugent.be/en/as.dogruoz), Ghent University
 - [Giovanni Da San Martino](https://scholar.google.fr/citations?user=URABLy0AAAAJ&hl=en), University of Padua
 - [Harish Tayyar Madabushi](https://www.harishtayyarmadabushi.com/), The University of Bath
+- [Ritesh Kumar](https://www.ctrans.in/research/clresearch), Dr. Bhimrao Ambedkar University
 
 ### Resources
 
