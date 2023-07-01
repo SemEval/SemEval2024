@@ -4,53 +4,40 @@ title: SemEval-2024
 
 Welcome to the [SemEval](https://semeval.github.io/)-2024 homepage!
 
-## [SemEval-2024 call for task proposals](cft)
-
-### Important dates
-
-- Task proposals due 24 April 2023 ([Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth))
-- Task selection notification 09 June 2023
-
-The submission webpage is: [SemEval2024 Task Proposal Submission](https://openreview.net/group?id=aclweb.org/ACL/2023/Workshop/SemEval)
-
-
-
-
-<!-- ## [SemEval-2024 tasks](tasks)  -->
-
+## [SemEval-2024 tasks](tasks)
 <!---
 ### [SemEval-2024 program](schedule)
 --->
 
-<!-- ### Important dates for task participants
+### Important dates for task participants
 
-- Tasks announced (with sample data available): 15 July 2022
-- Training data ready 1 September 2022
-- Evaluation start 10 January 2023
-- Evaluation end by 31 January 2023 (latest date; task organizers may choose an earlier date)
-- Paper submission due 28 February 2023
-- Notification to authors 31 March 2023
-- Camera ready due 21 April 2023
-- SemEval workshop: 13-14 July 2023 (co-located with [ACL-2023](https://2023.aclweb.org/) in Toronto, Canada)
+- Tasks announced (with sample data available): 17 July 2023
+- Training data ready 4 September 2023
+- Evaluation start 10 January 2024
+- Evaluation end by by 31 January 2024 (latest date; task organizers may choose an earlier date)
+- Paper submission due 29 February 2024
+- Notification to authors 1 April 2024
+- Camera ready due 22 April 2024
+- SemEval workshop: TBD, 2024 (co-located with a major NLP conference)
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
 
 ### Important dates for task organizers
 
-- [Task proposals](cft) due 31 March 2022
-- Task selection notification 18 May 2022
-- Sample data ready 15 July 2022
-- Training data ready 1 September 2022
-- Evaluation data ready 1 December 2022 (internal deadline; not for public release)
-- Evaluation start 10 January 2023
-- Evaluation end by 31 January 2023 (latest date; task organizers may choose an earlier date)
-- System paper submission due 28 February 2023
-- Task paper submission due 7 March 2023
-- Notification to authors 31 March 2023
-- Camera ready due 21 April 2023
-- SemEval workshop: 13-14 July 2023 (co-located with [ACL-2023](https://2023.aclweb.org/) in Toronto, Canada)****
+- [Task proposals](cft) due 24 April 2023
+- Task selection notification 09 June 2023
+- Sample data ready 15 July 2023
+- Training data ready 1 September 2023
+- Evaluation data ready 1 December 2023 (internal deadline; not for public release)
+- Evaluation start 10 January 2024
+- Evaluation end by 31 January 2024 (latest date; task organizers may choose an earlier date)
+- System paper submission due 29 February 2023
+- Task paper submission due 7 March 2024
+- Notification to authors 1 April 2024
+- Camera ready due 22 April 2024
+- SemEval workshop: TBD, 2024 (co-located with a major NLP conference)****
 
-All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)). -->
+All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
 
 
 ### Organizers
@@ -66,8 +53,14 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 
 - [Frequently Asked Questions about SemEval](/faq.html)
 - [Paper Submission Requirements](/paper-requirements.html)
-- [Guidelines for Writing Papers](/system-paper-template.html) 
-<!-- - [SemEval-2023 call for task proposals (archival)](cft) -->
+- [Guidelines for Writing Papers](/system-paper-template.html)
+- [Paper style files](https://acl-org.github.io/ACLPUB/formatting.html)
+<!---- - [Paper submission site](https://softconf.com/acl2024/SemEval2024/)
+ [SemEval-2023 call for task proposals (archival)](cft)--->
+
+### Archive
+
+- [SemEval-2024 call for task proposals](https://semeval.github.io/SemEval2024/cft)
 
 ### Sponsorship
 
