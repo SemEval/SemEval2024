@@ -71,4 +71,4 @@ For questions about particular tasks, email the task organizers at the addresses
 
 For general information about participating in SemEval and submitting papers, see [Resources](index.html#resources).
 
-[Link to CodaLab instructions](https://semeval.github.io/SemEval2024/codaLab), for both organizers and participants.
+[Link to CodaLab instructions](https://semeval.github.io/SemEval2024/codalab), for both organizers and participants.
