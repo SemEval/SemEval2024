@@ -50,7 +50,7 @@ Websites and contact information for individual tasks will be given below soon.
 
 - **[Task 8: Multidomain, Multimodal and Multilingual Machine-Generated Text Detection](TBD)**
   ([[contact organizers]](mailto:TBD),
-  [[join task mailing list]](TBD))<br>--->
+  [[join task mailing list]](TBD))<br>
   Yuxia Wang, Alham Fikri Aji, Artem Shelmanov, Chenxi Whitehouse, Petar Ivanov, Jonibek Mansurov, Jinyan Su, Tarek Mahmoud, Osama Mohammed Afzal, Preslav Nakov
 
 ### Knowledge Representation and Reasoning
