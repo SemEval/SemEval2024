@@ -14,8 +14,8 @@ Websites and contact information for individual tasks will be given below soon.
   [[join task mailing list]](TBD))<br>
   Nedjma OUSIDHOUM, Shamsuddeen Hassan Muhammad, Mohamed Abdalla, Krishnapriya Vishnubhotla, Vladimir Araujo, Meriem Beloucif, Idris Abdulmumin, Seid Muhie Yimam, Thamar Solorio, Monojit Choudhury, Saif M. Mohammad
 
-- **[Task 2: Safe Biomedical Natural Language Inference for Clinical Trials ](tbd)**
-  ([[contact organizers]](mailto:TBD),
+- **[Task 2: Safe Biomedical Natural Language Inference for Clinical Trials ](https://sites.google.com/view/nli4ct/)**
+  ([[contact organizers]](mailto:mael.jullien@postgrad.manchester.ac.uk),
   [[join task mailing list]](TBD))<br>
   Mael Jullien, Marco Valentino, Andre Freitas
 
@@ -38,9 +38,9 @@ Websites and contact information for individual tasks will be given below soon.
 
 ### LLM Capabilities 
 
-- **[Task 6: SHROOM, a Shared-task on Hallucinations and Related Observable Overgeneration Mistakes](TBD)**
-  ([[contact organizers]](mailto:TBD),
-  [[join task mailing list]](TBD))<br>
+- **[Task 6: SHROOM, a Shared-task on Hallucinations and Related Observable Overgeneration Mistakes](https://helsinki-nlp.github.io/shroom/)**
+  ([[contact organizers]](mailto:timothee.mickus@helisnki.fi),
+  [[join task mailing list]](https://groups.google.com/g/semeval-2024-task-6-shroom))<br>
   Elaine Zosa, Raúl Vázquez, Jörg Tiedemann, Vincent Segonne, Alessandro Raganato, Timothee Mickus, Marianna Apidianaki
 
 - **[Task 7: NumEval: Numeral-Aware Language Understanding and Generation](https://sites.google.com/view/numeval/numeval)**
@@ -60,7 +60,7 @@ Websites and contact information for individual tasks will be given below soon.
   [[join task mailing list]](TBD))<br>
   Yifan Jiang, Filip Ilievski, Kaixin Ma
 
-- **[Task 10: Emotion Discovery and Reasoning its Flip in Conversation](TBD)**
+- **[Task 10: Emotion Discovery and Reasoning its Flip in Conversation](https://lcs2.in/SemEval2024-EDiReF/)**
   ([[contact organizers]](mailto:TBD),
   [[join task mailing list]](TBD))<br>
   Shivani Kumar, Md Shad Akhtar, Tanmoy Chakraborty, Erik Cambria
