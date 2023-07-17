@@ -31,7 +31,7 @@ Websites and contact information for individual tasks will be given below soon.
   [[join task mailing list]](TBD))<br>
   Dimitar Iliyanov Dimitrov, Giovanni Da San Martino, Fabrizio Silvestri, Preslav Nakov, Firoj Alam
 
-- **[Task 5: Argument Reasoning in Civil Procedure](https://clickbait.webis.de)**
+- **[Task 5: Argument Reasoning in Civil Procedure](TBD)**
   ([[contact organizers]](mailto:TBD),
   [[join task mailing list]](TBD))<br>
   Lena Held, Ivan Habernal
@@ -43,8 +43,8 @@ Websites and contact information for individual tasks will be given below soon.
   [[join task mailing list]](TBD))<br>
   Elaine Zosa, Raúl Vázquez, Jörg Tiedemann, Vincent Segonne, Alessandro Raganato, Timothee Mickus, Marianna Apidianaki
 
-- **[Task 7: NumEval: Numeral-Aware Language Understanding and Generation](TBD)**
-  ([[contact organizers]](mailto:TBD),
+- **[Task 7: NumEval: Numeral-Aware Language Understanding and Generation](https://sites.google.com/view/numeval/numeval)**
+  ([[contact organizers]](mailto:NumEval@nlg.csie.ntu.edu.tw),
   [[join task mailing list]](TBD))<br>
   Chung-Chi Chen, Hen-Hsen Huang, Hiroya Takamura, Hsin-Hsi Chen
 
