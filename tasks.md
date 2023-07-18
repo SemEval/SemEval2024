@@ -9,9 +9,9 @@ Websites and contact information for individual tasks will be given below soon.
 
 ### Semantic Relations
 
-- **[Task 1: Semantic Textual Relatedness for African and Asian Languages](tbd)**
-  ([[contact organizers]](mailto:TBD),
-  [[join task mailing list]](TBD))<br>
+- **[Task 1: Semantic Textual Relatedness for African and Asian Languages](https://semantic-textual-relatedness.github.io)**
+  ([[contact organizers]](mailto:semrel-semeval-organisers@googlegroups.com),
+  [[join task mailing list]](semrel-semeval-participants@googlegroups.com))<br>
   Nedjma OUSIDHOUM, Shamsuddeen Hassan Muhammad, Mohamed Abdalla, Krishnapriya Vishnubhotla, Vladimir Araujo, Meriem Beloucif, Idris Abdulmumin, Seid Muhie Yimam, Thamar Solorio, Monojit Choudhury, Saif M. Mohammad
 
 - **[Task 2: Safe Biomedical Natural Language Inference for Clinical Trials ](https://sites.google.com/view/nli4ct/)**
@@ -22,7 +22,7 @@ Websites and contact information for individual tasks will be given below soon.
 ### Discourse and Argumentation
 
 - **[Task 3: The Competition of Multimodal Emotion Cause Analysis in Conversations](TBD)**
-  ([[contact organizers]](mailto:TBD),
+  ([[contact organizers]](mailto:rxia@njust.edu.cn),
   [[join task mailing list]](TBD))<br>
   Rui Xia, Jianfei Yu, Fanfan Wang, Erik Cambria 
 
@@ -31,8 +31,8 @@ Websites and contact information for individual tasks will be given below soon.
   [[join task mailing list]](TBD))<br>
   Dimitar Iliyanov Dimitrov, Giovanni Da San Martino, Fabrizio Silvestri, Preslav Nakov, Firoj Alam
 
-- **[Task 5: Argument Reasoning in Civil Procedure](TBD)**
-  ([[contact organizers]](mailto:TBD),
+- **[Task 5: Argument Reasoning in Civil Procedure](https://trusthlt.github.io/semeval24/)**
+  ([[contact organizers]](mailto:lena.held@tu-darmstadt.de),
   [[join task mailing list]](TBD))<br>
   Lena Held, Ivan Habernal
 
@@ -45,7 +45,7 @@ Websites and contact information for individual tasks will be given below soon.
 
 - **[Task 7: NumEval: Numeral-Aware Language Understanding and Generation](https://sites.google.com/view/numeval/numeval)**
   ([[contact organizers]](mailto:NumEval@nlg.csie.ntu.edu.tw),
-  [[join task mailing list]](TBD))<br>
+  [[join task mailing list]](https://groups.google.com/g/numeval))<br>
   Chung-Chi Chen, Hen-Hsen Huang, Hiroya Takamura, Hsin-Hsi Chen
 
 - **[Task 8: Multidomain, Multimodal and Multilingual Machine-Generated Text Detection](TBD)**
@@ -55,14 +55,14 @@ Websites and contact information for individual tasks will be given below soon.
 
 ### Knowledge Representation and Reasoning
 
-- **[Task 9: BRAINTEASER: A Novel Task Defying Common Sense](TBD)**
-  ([[contact organizers]](mailto:TBD),
-  [[join task mailing list]](TBD))<br>
+- **[Task 9: BRAINTEASER: A Novel Task Defying Common Sense](https://1171-jpg.github.io/)**
+  ([[contact organizers]](mailto:yifjia@isi.edu),
+  [[join task mailing list]](https://groups.google.com/g/brainteaser9))<br>
   Yifan Jiang, Filip Ilievski, Kaixin Ma
 
 - **[Task 10: Emotion Discovery and Reasoning its Flip in Conversation](https://lcs2.in/SemEval2024-EDiReF/)**
-  ([[contact organizers]](mailto:TBD),
-  [[join task mailing list]](TBD))<br>
+  ([[contact organizers]](mailto:ediref2024@gmail.com),
+  [[join task mailing list]](ediref2024_group@googlegroups.com))<br>
   Shivani Kumar, Md Shad Akhtar, Tanmoy Chakraborty, Erik Cambria
 
 
