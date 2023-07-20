@@ -21,9 +21,9 @@ Websites and contact information for individual tasks will be given below soon.
 
 ### Discourse and Argumentation
 
-- **[Task 3: The Competition of Multimodal Emotion Cause Analysis in Conversations](TBD)**
+- **[Task 3: The Competition of Multimodal Emotion Cause Analysis in Conversations](https://nustm.github.io/SemEval-2024_ECAC/)**
   ([[contact organizers]](mailto:rxia@njust.edu.cn),
-  [[join task mailing list]](TBD))<br>
+  [[join task mailing list]](https://groups.google.com/g/ecf_eca))<br>
   Rui Xia, Jianfei Yu, Fanfan Wang, Erik Cambria 
 
 - **[Task 4: Multilingual Detection of Persuasion Techniques in Memes](TBD)**
