@@ -16,7 +16,7 @@ Websites and contact information for individual tasks will be given below soon.
 
 - **[Task 2: Safe Biomedical Natural Language Inference for Clinical Trials ](https://sites.google.com/view/nli4ct/)**
   ([[contact organizers]](mailto:mael.jullien@postgrad.manchester.ac.uk),
-  [[join task mailing list]](TBD))<br>
+  [[join task mailing list]](nli4ct@googlegroups.com))<br>
   Mael Jullien, Marco Valentino, Andre Freitas
 
 ### Discourse and Argumentation
