@@ -26,9 +26,9 @@ Websites and contact information for individual tasks will be given below soon.
   [[join task mailing list]](https://groups.google.com/g/ecf_eca))<br>
   Rui Xia, Jianfei Yu, Fanfan Wang, Erik Cambria 
 
-- **[Task 4: Multilingual Detection of Persuasion Techniques in Memes](TBD)**
-  ([[contact organizers]](mailto:TBD),
-  [[join task mailing list]](TBD))<br>
+- **[Task 4: Multilingual Detection of Persuasion Techniques in Memes](https://propaganda.math.unipd.it/semeval2024task4/)**
+  ([[contact organizers]](mailto:semeval2024-task4@googlegroups.com),
+  [[join task mailing list]](https://groups.google.com/g/semeval2024-task4))<br>
   Dimitar Iliyanov Dimitrov, Giovanni Da San Martino, Fabrizio Silvestri, Preslav Nakov, Firoj Alam
 
 - **[Task 5: Argument Reasoning in Civil Procedure](https://trusthlt.github.io/semeval24/)**
@@ -48,9 +48,9 @@ Websites and contact information for individual tasks will be given below soon.
   [[join task mailing list]](https://groups.google.com/g/numeval))<br>
   Chung-Chi Chen, Hen-Hsen Huang, Hiroya Takamura, Hsin-Hsi Chen
 
-- **[Task 8: Multidomain, Multimodal and Multilingual Machine-Generated Text Detection](TBD)**
-  ([[contact organizers]](mailto:TBD),
-  [[join task mailing list]](TBD))<br>
+- **[Task 8: Multidomain, Multimodal and Multilingual Machine-Generated Text Detection](https://github.com/mbzuai-nlp/Semeval2024-m4/)**
+  ([[contact organizers]](mailto:semeval2024-task8@googlegroups.com),
+  [[join task mailing list]](https://groups.google.com/g/semeval2024-task8))<br>
   Yuxia Wang, Alham Fikri Aji, Artem Shelmanov, Chenxi Whitehouse, Petar Ivanov, Jonibek Mansurov, Jinyan Su, Tarek Mahmoud, Osama Mohammed Afzal, Preslav Nakov
 
 ### Knowledge Representation and Reasoning
