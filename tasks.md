@@ -27,7 +27,7 @@ Websites and contact information for individual tasks will be given below soon.
   Rui Xia, Jianfei Yu, Fanfan Wang, Erik Cambria 
 
 - **[Task 4: Multilingual Detection of Persuasion Techniques in Memes](https://propaganda.math.unipd.it/semeval2024task4/)**
-  ([[contact organizers]](mailto:semeval2024-task4@googlegroups.com),
+  ([[contact organizers]](mailto:semeval2024task4organisers@googlegroups.com),
   [[join task mailing list]](https://groups.google.com/g/semeval2024-task4))<br>
   Dimitar Iliyanov Dimitrov, Giovanni Da San Martino, Fabrizio Silvestri, Preslav Nakov, Firoj Alam
 
