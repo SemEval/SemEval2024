@@ -55,7 +55,7 @@ Websites and contact information for individual tasks will be given below soon.
 
 ### Knowledge Representation and Reasoning
 
-- **[Task 9: BRAINTEASER: A Novel Task Defying Common Sense](https://semevalbrainteaser.github.io/)**
+- **[Task 9: BRAINTEASER: A Novel Task Defying Common Sense](https://brainteasersem.github.io/)**
   ([[contact organizers]](mailto:yifjia@isi.edu),
   [[join task mailing list]](https://groups.google.com/g/brainteaser9))<br>
   Yifan Jiang, Filip Ilievski, Kaixin Ma
