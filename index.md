@@ -47,7 +47,10 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - [A. Seza Doğruöz](https://research.flw.ugent.be/en/as.dogruoz), Ghent University
 - [Giovanni Da San Martino](https://scholar.google.fr/citations?user=URABLy0AAAAJ&hl=en), University of Padua
 - [Harish Tayyar Madabushi](https://www.harishtayyarmadabushi.com/), The University of Bath
-- [Ritesh Kumar](https://www.ctrans.in/research/clresearch), Dr. Bhimrao Ambedkar University
+- [Sara Rosenthal](https://research.ibm.com/people/sara-rosenthal), IBM Research AI
+- [Aiala Rosá](https://www.fing.edu.uy/es/node/40946), Universidad de la República - Uruguay
+
+<!--- [Ritesh Kumar](https://www.ctrans.in/research/clresearch), Dr. Bhimrao Ambedkar University --->
 
 ### Resources
 
