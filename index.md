@@ -31,7 +31,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - Evaluation data ready 1 December 2023 (internal deadline; not for public release)
 - Evaluation start 10 January 2024
 - Evaluation end by 31 January 2024 (latest date; task organizers may choose an earlier date)
-- System paper submission due 29 February 2023
+- System paper submission due 29 February 2024
 - Task paper submission due 7 March 2024
 - Notification to authors 1 April 2024
 - Camera ready due 22 April 2024
