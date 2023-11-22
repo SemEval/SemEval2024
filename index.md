@@ -15,9 +15,9 @@ Welcome to the [SemEval](https://semeval.github.io/)-2024 homepage!
 - Training data ready 4 September 2023
 - Evaluation start 10 January 2024
 - Evaluation end by by 31 January 2024 (latest date; task organizers may choose an earlier date)
-- Paper submission due 29 February 2024
-- Notification to authors 1 April 2024
-- Camera ready due 22 April 2024
+- Paper submission due 19 February 2024
+- Notification to authors 18 March 2024
+- Camera ready due 01 April 2024
 - SemEval workshop: June 16–21, 2024 (co-located with [NAACL 2024](https://2024.naacl.org/) in Mexico City, Mexico)
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
@@ -31,10 +31,10 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - Evaluation data ready 1 December 2023 (internal deadline; not for public release)
 - Evaluation start 10 January 2024
 - Evaluation end by 31 January 2024 (latest date; task organizers may choose an earlier date)
-- System paper submission due 29 February 2024
-- Task paper submission due 7 March 2024
-- Notification to authors 1 April 2024
-- Camera ready due 22 April 2024
+- System paper submission due 19 February 2024
+- Task paper submission due 25 February 2024
+- Notification to authors 18 March 2024
+- Camera ready due 01 April 2024
 - SemEval workshop: June 16–21, 2024 (co-located with [NAACL 2024](https://2024.naacl.org/) in Mexico City, Mexico)****
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
@@ -50,7 +50,6 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - [Sara Rosenthal](https://research.ibm.com/people/sara-rosenthal), IBM Research AI
 - [Aiala Rosá](https://www.fing.edu.uy/es/node/40946), Universidad de la República - Uruguay
 
-<!--- [Ritesh Kumar](https://www.ctrans.in/research/clresearch), Dr. Bhimrao Ambedkar University --->
 
 ### Resources
 
@@ -59,7 +58,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - [Guidelines for Writing Papers](/system-paper-template.html)
 - [Paper style files](https://acl-org.github.io/ACLPUB/formatting.html)
 <!---- - [Paper submission site](https://softconf.com/acl2024/SemEval2024/)
- [SemEval-2023 call for task proposals (archival)](cft)--->
+ [SemEval-2024 call for task proposals (archival)](cft)--->
 
 ### Archive
 
