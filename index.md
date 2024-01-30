@@ -57,8 +57,8 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - [Paper Submission Requirements](/paper-requirements.html)
 - [Guidelines for Writing Papers](/system-paper-template.html)
 - [Paper style files](https://acl-org.github.io/ACLPUB/formatting.html)
-<!---- - [Paper submission site](https://softconf.com/acl2024/SemEval2024/)
- [SemEval-2024 call for task proposals (archival)](cft)--->
+- [Paper submission site](https://softconf.com/naacl2024/SemEval2024/)
+ <!--- [SemEval-2024 call for task proposals (archival)](cft)--->
 
 ### Archive
 
