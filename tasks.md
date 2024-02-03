@@ -48,7 +48,7 @@ Websites and contact information for individual tasks will be given below soon.
   [[join task mailing list]](https://groups.google.com/g/numeval))<br>
   Chung-Chi Chen, Hen-Hsen Huang, Hiroya Takamura, Hsin-Hsi Chen
 
-- **[Task 8: Multidomain, Multimodal and Multilingual Machine-Generated Text Detection](https://github.com/mbzuai-nlp/Semeval2024-m4/)**
+- **[Task 8: Multidomain, Multimodel and Multilingual Machine-Generated Text Detection](https://github.com/mbzuai-nlp/Semeval2024-m4/)**
   ([[contact organizers]](mailto:semeval2024-task8@googlegroups.com),
   [[join task mailing list]](https://groups.google.com/g/semeval2024-task8))<br>
   Yuxia Wang, Alham Fikri Aji, Artem Shelmanov, Chenxi Whitehouse, Petar Ivanov, Jonibek Mansurov, Jinyan Su, Tarek Mahmoud, Osama Mohammed Afzal, Preslav Nakov
