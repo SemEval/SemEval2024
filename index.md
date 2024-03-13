@@ -18,7 +18,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2024 homepage!
 - Paper submission due 19 February 2024
 - Notification to authors 18 March 2024
 - Camera ready due 01 April 2024
-- SemEval workshop: June 16–21, 2024 (co-located with [NAACL 2024](https://2024.naacl.org/) in Mexico City, Mexico)
+- SemEval workshop: June 20–21, 2024 (co-located with [NAACL 2024](https://2024.naacl.org/) in Mexico City, Mexico)
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
 
@@ -35,7 +35,7 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 - Task paper submission due 25 February 2024
 - Notification to authors 18 March 2024
 - Camera ready due 01 April 2024
-- SemEval workshop: June 16–21, 2024 (co-located with [NAACL 2024](https://2024.naacl.org/) in Mexico City, Mexico)****
+- SemEval workshop: June 20–21, 2024 (co-located with [NAACL 2024](https://2024.naacl.org/) in Mexico City, Mexico)****
 
 All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/wiki/Anywhere_on_Earth)).
 
