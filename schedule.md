@@ -4,7 +4,7 @@ title: SemEval-2024 Schedule
 
 ## SemEval-2024 Schedule
 
-[SemEval-2024](https://semeval.github.io/SemEval2024/) will be colocated with [NAACL 2023](https://2024.naacl.org/) at the Hilton Reforma Mexico City, Mexico City.
+[SemEval-2024](https://semeval.github.io/SemEval2024/) will be colocated with [NAACL 2024](https://2024.naacl.org/) at the Hilton Reforma Mexico City, Mexico City.
 
 Online poster sessions will be held on Gather. 
 
