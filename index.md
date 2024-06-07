@@ -5,9 +5,9 @@ title: SemEval-2024
 Welcome to the [SemEval](https://semeval.github.io/)-2024 homepage!
 
 ## [SemEval-2024 tasks](tasks)
-<!---
+
 ### [SemEval-2024 program](schedule)
---->
+
 
 ### Important dates for task participants
 
