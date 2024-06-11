@@ -8,7 +8,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2024 homepage!
 
 ### [SemEval-2024 program](schedule)
 
-### [SemEval-2024 best paper awards](awards)
+<!--### [SemEval-2024 best paper awards](awards)-->
 
 
 ### Important dates for task participants
