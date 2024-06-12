@@ -64,7 +64,8 @@ In-person oral, poster sessions and invited talk will be held in room Alberto 1 
   - OtterlyObsessedWithSemantics at SemEval-2024 Task 4: Developing a Hierarchical Multi-Label Classification Head for Large Language Models
   - GreyBox at SemEval-2024 Task 4: Progressive Fine-tuning (for Multilingual Detection of Propaganda Techniques)
   - BCAmirs at SemEval-2024 Task 4: Beyond Words: A Multimodal and Multilingual Exploration of Persuasion in Memes
-  - Pauk at SemEval-2024 Task 4: A Neuro-Symbolic Method for Consistent Classification of Propaganda Techniques in Memes    
+  - Pauk at SemEval-2024 Task 4: A Neuro-Symbolic Method for Consistent Classification of Propaganda Techniques in Memes
+  - Edinburgh Clinical NLP at SemEval-2024 Task 2: Fine-tune your model unless you have access to GPT-4    
 </details>
 
 
