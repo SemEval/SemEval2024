@@ -110,13 +110,14 @@ In-person oral, poster sessions and invited talk will be held in room Alberto 1 
 <em>12:00-14:00 Lunch break</em>
 
 <details><summary><strong>14:00-15:30 Poster Session III: System Description Papers (in person only)</strong></summary>
+
   - Archimedes-AUEB at SemEval-2024 Task 5: LLM explains Civil Procedure
   - TU Wien at SemEval-2024 Task 6: Unifying Model-Agnostic and Model-Aware Techniques for Hallucination Detection
-  - HaRMoNEE at SemEval-2024 Task 6: Tuning-based Approaches to Hallucination Recognition 
+  - HaRMoNEE at SemEval-2024 Task 6: Tuning-based Approaches to Hallucination Recognition
   - Pollice Verso at SemEval-2024 Task 6: The Roman Empire Strikes Back
   - CYUT at SemEval-2024 Task 7: A Numerals Augmentation and Feature Enhancement Approach to Numeral Reading Comprehension
   - Infrrd.ai at SemEval-2024 Task 7: RAG-based end-to-end training to generate headlines and numbers
- - hinoki at SemEval-2024 Task 7: NumEval Task 3: Numeral-Aware Headline Generation (English)  
+  - hinoki at SemEval-2024 Task 7: NumEval Task 3: Numeral-Aware Headline Generation (English)
   - Team Unibuc - NLP at SemEval-2024 Task 8: Transformer and Hybrid Deep Learning Based Models for Machine-Generated Text Detection
   - iimasNLP at SemEval-2024 Task 8: Unveiling structure-aware language models for automatic generated text identification
   - PetKaz at SemEval-2024 Task 8: Can Linguistics Capture the Specifics of LLM-generated Text?
