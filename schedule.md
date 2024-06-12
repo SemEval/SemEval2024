@@ -79,8 +79,7 @@ In-person oral, poster sessions and invited talk will be held in room Alberto 1 
   - DFKI-NLP at SemEval-2024 Task 2: Towards Robust LLMs Using Data Perturbations and MinMax Training
   - FZI-WIM at SemEval-2024 Task 2: Self-Consistent CoT for Complex NLI in Biomedical Domain
   - Lisbon Computational Linguists at SemEval-2024 Task 2: Using a Mistral-7B Model and Data Augmentation
-  - CaresAI at SemEval-2024 Task 2: Improving Natural Language Inference in Clinical Trial Data using Model Ensemble and Data Explanation  
-  - CLaC at SemEval-2024 Task 4: Decoding Persuasion in Memes – An Ensemble of Language Models with Paraphrase Augmentation
+  - CaresAI at SemEval-2024 Task 2: Improving Natural Language Inference in Clinical Trial Data using Model Ensemble and Data Explanation
   - BAMBAS at SemEval-2024 Task 4: How far can we get without looking at hierarchies?
   - Fralak at SemEval-2024 Task 4: combining RNN-generated hierarchy paths with simple neural nets for hierarchical multilabel text classification in a multilingual zero-shot setting
   - Snarci at SemEval-2024 Task 4: Themis Model for Binary Classification of Memes
@@ -126,6 +125,7 @@ In-person oral, poster sessions and invited talk will be held in room Alberto 1 
   - SINAI at SemEval-2024 Task 8: Fine-tuning on Words and Perplexity as Features for Detecting Machine Written Text
   - VerbaNexAI Lab at SemEval-2024 Task 10: Emotion recognition and reasoning in mixed-coded conversations based on an NRC VAD approach
   - UCSC NLP at SemEval-2024 Task 10: Emotion Discovery and Reasoning its Flip in Conversation (EDiReF)
+  - CLaC at SemEval-2024 Task 4: Decoding Persuasion in Memes – An Ensemble of Language Models with Paraphrase Augmentation
  </details>
 
 <em>15:30-16:00 Coffee break</em>
