@@ -25,14 +25,15 @@ In-person oral, poster sessions and invited talk will be held in room Alberto 1 
   - 11:30-11:45	SemEval-2024 Task 3: Multimodal Emotion Cause Analysis in Conversations
   - 11:45-12:00	SemEval-2024 Task 4: Multilingual Detection of Persuasion Techniques in Memes
   - 12:00-12:15	SemEval-2024 Task 5: Argument Reasoning in Civil Procedure
-  - 12:15-12:30	SemEval-2024 Task 6: SHROOM, a Shared-task on Hallucinations and Related Observable Overgeneration Mistakes
+  - 12:15-12:30	SemEval-2024 Task 7: Numeral-Aware Language Understanding and Generation
 </details>
 
 <em>12:30-14:00 Lunch break</em>
 
 
 <details><summary><strong>14:00-15:00 Oral Session II: Tasks 7-10</strong></summary>
-  - 14:00-14:15	SemEval-2024 Task 7: Numeral-Aware Language Understanding and Generation
+  
+  - 14:00-14:15	SemEval-2024 Task 6: SHROOM, a Shared-task on Hallucinations and Related Observable Overgeneration Mistakes
   - 14:15-14:30	SemEval-2024 Task 8: Multidomain, Multimodel and Multilingual Machine-Generated Text Detection 
   - 14:30-14:45	SemEval-2024 Task 9: BRAINTEASER: A Novel Task Defying Common Sense
   - 14:45-15:00	SemEval 2024 - Task 10: Emotion Discovery and Reasoning its Flip in Conversation (EDiReF)
