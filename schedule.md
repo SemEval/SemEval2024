@@ -106,7 +106,7 @@ In-person oral, poster sessions and invited talk will be held in room Alberto 1 
 
 <em>10:30-11:00 Coffee break</em>
 
-<strong>11:00-12:30 Invited Talk 2, [Andre Martins](https://andre-martins.github.io/): Beyond Single Scores: Transparent Evaluation through Fine-Grained Error Detection and Uncertainty Quantification</strong>
+<strong>11:00-12:00 Invited Talk 2, [Andre Martins](https://andre-martins.github.io/): Beyond Single Scores: Transparent Evaluation through Fine-Grained Error Detection and Uncertainty Quantification</strong>
 
 <em>12:00-14:00 Lunch break</em>
 
