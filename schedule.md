@@ -18,7 +18,7 @@ In-person oral and invited talks will be held in room Alberto 1 except for Heng 
 
 <em>10:30-11:00 Coffee break</em>
 
-<details><summary><strong>11:00-12:30 Oral Session I: Tasks 1-6</strong></summary>
+<details><summary><strong>11:00-12:30 Oral Session I: Tasks 1-5 and 7</strong></summary>
 
   - 11:00-11:15	SemEval Task 1: Semantic Textual Relatedness for African and Asian Languages
   - 11:15-11:30	SemEval-2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials
@@ -31,7 +31,7 @@ In-person oral and invited talks will be held in room Alberto 1 except for Heng 
 <em>12:30-14:00 Lunch break</em>
 
 
-<details><summary><strong>14:00-15:00 Oral Session II: Tasks 7-10</strong></summary>
+<details><summary><strong>14:00-15:00 Oral Session II: Tasks 6 and 8-10</strong></summary>
   
   - 14:00-14:15	SemEval-2024 Task 6: SHROOM, a Shared-task on Hallucinations and Related Observable Overgeneration Mistakes
   - 14:15-14:30	SemEval-2024 Task 8: Multidomain, Multimodel and Multilingual Machine-Generated Text Detection 
