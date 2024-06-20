@@ -40,8 +40,9 @@ In-person oral and invited talks will be held in room Alberto 1 except for Heng 
 </details>
 
 <details><summary><strong>15:00-15:30 Oral Session III: Best Paper Awards</strong></summary>
-  - 15:00-15:15 Best System Description Paper 1
-  - 15:15-15:30	Best System Description Paper 2
+  
+  - 15:00-15:12 Best System Description Paper 1
+  - 15:12-15:24	Best System Description Paper 2
 </details>
 
 <em>15:30-16:00 Coffee break</em>
