@@ -5,7 +5,7 @@ title: SemEval-2024 Tasks
 ### We are pleased to announce the following tasks for [SemEval-2024](https://semeval.github.io/SemEval2024)!
 
 ## TASKS
-Websites and contact information for individual tasks will be given below soon.
+Websites and contact information for individual tasks are given below soon.
 
 ### Semantic Relations
 
