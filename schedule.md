@@ -8,7 +8,7 @@ title: SemEval-2024 Schedule
 
 Online poster sessions will be held on Gather. 
 
-In-person oral, poster sessions and invited talk will be held in room Alberto 1 except for Heng Ji's invited talk (joint with *SEM), which will be in room Adaleta. Oral sessions and talks will also be streamed on Zoom.
+In-person oral and invited talks will be held in room Alberto 1 except for Heng Ji's invited talk (joint with *SEM), which will be in room Adaleta. Oral sessions and talks will also be streamed on Zoom. The in-person poster sessions will be held in the room ***DON DIEGO***. 
 
 ### Thursday, June 20th
 
