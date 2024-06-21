@@ -8,6 +8,8 @@ Welcome to the [SemEval](https://semeval.github.io/)-2024 homepage!
 
 ### [SemEval-2024 program](schedule)
 
+<!---### [SemEval-2024 proceedings](https://aclanthology.org/volumes/2024.semeval-1/)--->
+
 ### [SemEval-2024 best paper awards](awards)
 
 
