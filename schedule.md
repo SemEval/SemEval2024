@@ -107,7 +107,7 @@ In-person oral and invited talks will be held in room Alberto 1 except for Heng 
 
 <em>10:30-11:00 Coffee break</em>
 
-<strong>11:00-12:00 Invited Talk 2, [Andre Martins](https://andre-martins.github.io/): Beyond Single Scores: Transparent Evaluation through Fine-Grained Error Detection and Uncertainty Quantification</strong>
+<strong>11:00-12:00 Invited Talk 2, [Andre Martins](https://andre-martins.github.io/): ___[Beyond Single Scores: Transparent Evaluation through Fine-Grained Error Detection and Uncertainty Quantification](andre_martins_semeval_2024_talk_slides.pdf)___</strong>
 
 <em>12:00-14:00 Lunch break</em>
 
@@ -129,6 +129,7 @@ In-person oral and invited talks will be held in room Alberto 1 except for Heng 
   - VerbaNexAI Lab at SemEval-2024 Task 10: Emotion recognition and reasoning in mixed-coded conversations based on an NRC VAD approach
   - UCSC NLP at SemEval-2024 Task 10: Emotion Discovery and Reasoning its Flip in Conversation (EDiReF)
   - CLaC at SemEval-2024 Task 4: Decoding Persuasion in Memes – An Ensemble of Language Models with Paraphrase Augmentation
+  - PWEITINLP at SemEval-2024 Task 3: Two Step Emotion Cause Analysis
  </details>
 
 <em>15:30-16:00 Coffee break</em>
