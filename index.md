@@ -8,7 +8,7 @@ Welcome to the [SemEval](https://semeval.github.io/)-2024 homepage!
 
 ### [SemEval-2024 program](schedule)
 
-<!---### [SemEval-2024 proceedings](https://aclanthology.org/volumes/2024.semeval-1/)--->
+### [SemEval-2024 proceedings](https://aclanthology.org/volumes/2024.semeval-1/)
 
 ### [SemEval-2024 best paper awards](awards)
 
@@ -28,8 +28,8 @@ All deadlines are 23:59 UTC-12 (["anywhere on Earth"](https://en.wikipedia.org/w
 
 ### Important dates for task organizers
 
-- [Task proposals](cft) due 24 April 2023
-- Task selection notification 09 June 2023
+- <s> [Task proposals](cft) due 24 April 2023 </s>
+- <s>Task selection notification 09 June 2023 </s>
 - Sample data ready 15 July 2023
 - Training data ready 1 September 2023
 - Evaluation data ready 1 December 2023 (internal deadline; not for public release)
